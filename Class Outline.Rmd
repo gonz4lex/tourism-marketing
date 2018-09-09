@@ -3,7 +3,6 @@ title: "Class Outline"
 author: "Alejandro Gonzalez"
 date: "8 September 2018"
 output: html_document
-highlight: "pygments"
 css: css/style.css
 ---
 
@@ -35,8 +34,6 @@ These first weeks will contain the following exercises:
 * The Ansoff matrix
 ```
 
-creativity techniques exercises, how to properly use academic citation, exercises about findinf a marketing plan for touristic destinations and attach a minimal schema of the project. Exercise of marketing definition, Marketing 1.0/3.0 and delivery with Kotler video. Exercises in Mission & Vision, Growth Strategies. Flipped learning exercise about mission. ANSOFF (?)`
-		
 #### Week 3: Product - LAB 1. Levels of Product and creation of tourism logo.
 * Monday, September 24th: 
 * Wednesday, September 26th: 
@@ -75,7 +72,7 @@ creativity techniques exercises, how to properly use academic citation, exercise
 * Wednesday, November 21st:
 	
 #### Week 12: Promotion - PR and sales promotion
-* Monday, November 26th:
+* Monday, November 26th: **No class.**
 * Wednesday, November 28th:
 	
 #### Week 13: Direct Marketing. Practice on aggresive direct marketing strategies in the tourism sector.
@@ -92,3 +89,4 @@ creativity techniques exercises, how to properly use academic citation, exercise
 
 
 ### Final evaluation: *23/01/2019 & 08/02/2019*
+### Close of califications record: *30/01/2019 & 20/02/2019*

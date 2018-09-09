@@ -1,0 +1,10 @@
+---
+title: "Professor tasks"
+author: "Alejandro Gonzalez"
+date: "9 September 2018"
+output: html_document
+---
+
+# Tourism Marketing II - Professor tasks
+
+###  

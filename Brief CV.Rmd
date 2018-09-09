@@ -1,0 +1,17 @@
+---
+title: "Brief CV"
+author: "Alejandro Gonzalez"
+date: "9 September 2018"
+output: html_document
+css: css/style.css
+---
+
+
+Associate professor of Tourism at the University of Balearic Islands (Spain). Alex holds a degree in Economic Sciences and a Master in Big Data Analytics in Economics and Business, with a focus in artificial intelligence applications for reinforcement learning.
+Self educated in IT programming languages such as SQL Server (including a Microsoft certificate), as well as R for statistical computing.
+
+His main occupation is Business Intelligence Analyst at MTS Globe, the largest privately-owned incoming services firm in Europe. MTS provides tourism intermediation in more than 65 destinations in the Mediterranean, the Indic Ocean, Canada and the US. 
+
+His main areas of research interest are data science and machine learning, the application of data systems to emerging technologies (AI and VR) and statistics.
+
+He has collaborated extensively with the academic community at the University, assisting professors in research papers and innovation activities for the improvement of the quality in undergraduate degrees. He was also assistant organizer in the XXXIX Symposium of the Spanish Economics Association, held in the UIB in December 2014.
