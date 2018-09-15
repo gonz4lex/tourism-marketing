@@ -2,7 +2,8 @@
 title: "Class Outline"
 author: "Alejandro Gonzalez"
 date: "8 September 2018"
-output: html_document
+output:
+  html_document: default
 css: css/style.css
 ---
 
@@ -18,11 +19,11 @@ css: css/style.css
 * Monday, September 17th: Overview of marketing plans, what is marketing and new marketing philosophy.
 * Wednesday, September 19th: Marketing 3.0
 
-```
+
 These first weeks will contain the following exercises:
 
-* Desing Thinking and creativity techniques.
-* Definiton of Marketing.
+* Design Thinking and creativity techniques.
+* Definition of Marketing.
 * How to properly use academic citation.
 * Find a marketing plan for touristic destinations.
 * Attach minimal project schema.
@@ -32,13 +33,13 @@ These first weeks will contain the following exercises:
 * Growth strategies
 * Flipped learning: the mission.
 * The Ansoff matrix
-```
 
-#### Week 3: Product - LAB 1. Levels of Product and creation of tourism logo.
+
+#### Week 3: Product - Lab 1. Levels of Product and creation of tourism logo.
 * Monday, September 24th: 
 * Wednesday, September 26th: 
 
-#### Week 4: Product - LAB 2
+#### Week 4: Product - Lab 2
 * Monday, October 1st:
 * Wednesday, October 3rd:
 
@@ -46,11 +47,11 @@ These first weeks will contain the following exercises:
 * Monday, October 8th: Product
 * Wednesday, October 10th: Product
 	
-#### Week 6: PRICE - LAB 1. Book practice on price management. Answer 7 questions about the platform's price.
+#### Week 6: Price - Lab 1. Book practice on price management. Answer 7 questions about the platform's price.
 * Monday, October 15th:
 * Wednesday, October 17th:
 	
-#### Week 7: PRICE - LAB 2. Southwest Airlines Revenue Management practice.
+#### Week 7: Price - Lab 2. Southwest Airlines Revenue Management practice.
 * Monday, October 22nd:
 * Wednesday, October 24th:
 	
@@ -89,5 +90,4 @@ These first weeks will contain the following exercises:
 
 
 ### Final evaluation: *23/01/2019 & 08/02/2019*
-### Close of califications record: *30/01/2019 & 20/02/2019*
-=======
+### Close of calification records: *30/01/2019 & 20/02/2019*
