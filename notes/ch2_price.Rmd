@@ -1,0 +1,73 @@
+---
+title: 'Chapter 2: Price'
+author: "Alejandro Gonzalez"
+date: "30 September 2018"
+output: html_document
+css: css/style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Price: definitions
+
+Price is the amount of money charged for a product or service. More broadly, price is the sum of values consumers exchange for the benefits of having or using the product or service.
+
+Ryanair can be an excellent example of pricing strategies in marketing. The airline offers free airplane seats, but also charges for every other detail such as baggage check-in and seat-back advertising. Their pricing model is based on cutting costs, which is reflected in the customer in terms of lower fares. It is said that Ryanair is also considering in-fight gambling in the near future, with the airline earning a tiny cut off the wager.
+
+However, one should take into account that cutting prices is often not the bet answer, since it can lead to lost profits and damaging price wars. Companies should sell value, not price. "Give people something of value and they will happily pay for it."
+
+## Common pricing mistakes
+
+* Too cost-oriented
+* Does not account for the marketing mix
+* Fails to reflect market changes
+* Is not varied enough
+
+A pricing mistake can lead to a business failure even when all other elements of the business are sound.
+
+## Factors to consider in pricing strategies
+
+### Internal factors
+
+* Marketing strategy: a product strategy needs to be in place already. That is, there needs to be a product concept or prototype close to the commercialization stage. The pricing strategy will also be more precise if the company is already well positioned and has chosen a target market. For example, Four Seasons hotels are positioned as luzury products and charges high room rates. Conversely, Motel 6 provides low-budget accomodation and this market position requires chargin a low price.
+
+
+* Survival: in the short run, it's more important that profit optimization.
+
+
+* Current profit maximization
+
+
+* Market share leadership: prices need to be low to obtain a strong market position and eventually enjoy low costs and high long-run profits. As an example, when Marriot opened its resort on Australia's Golden Cost it charged $99. Six months later, the rates were twice as high.
+
+
+* Product-quality leadership: the Ritz-Carlton chain has a acquisition cost per room that often exceeds $500,000. They also have a very high cost of labor per room and employee-to-guest ratios. Quality leaders charge more for their products but they also reinvest in their operations continuously to mantain their position.
+
+
+* Costs: fixed costs and variable costs need to be taken into account when adjusting prices or acquiring and servicing guests.
+
+
+* Organizational considerations: management should decide who within the organization should set prices. In large companies, pricing is usually handled by a corporate revenue management department and regional managers under the guidelines of corporate manager.
+
+
+### External factors:
+
+* Nature of the market and demand: price increase strategies assume market is price inelastic. If that doesn't hold, the company loses market share because customers can no longer afford the product.
+    + Cross selling: other products are sold to the guest. In hotels, food and beverage or jewelry are good examples.
+    + Upselling: sales and reservations employees are trained to continuously offer higher priced products that will better meet the customer needs, rather than settling for the lowest price. For example, turn after dinner coffee into an upselling opportunity by offering high-image upgraded presentations of coffee and tea rather than a standard pot of coffee.
+  
+
+* Consumer perception of price and value: the consumer ultimately decides whether the price is right. We can't see the value of our product, we can only set price. The market value is set by our customers and our ability to sell to it.
+One study showed that just after paying their hotel bills, only one fifth of customers remember the rate they had just paid. However, all of them could state whether they had received food value. 
+  
+
+* Price-demand relationship: understanding the concept of demand and price elasticity is essential. In some cases, demand is less price-sensitive, when the product is unique or of high quality, prestige or exclusiveness. Chains tend to differentiate their brands to evoke a sense of uniqueness, such as the Apple products.
+    + Some of the factors that affect price sensitivity are the unique value effect, the substitute awareness effect, business expenditure effect, end-benefit effect, and sunk investment effect.
+  
+
+* Competitors' price and offers: normally, this information acts as a stepping stone for a company to decide its own pricing strategy.
+  
+
+* Other environmental factors: inflation, recessions, public expenditure and new technology.

@@ -1,0 +1,272 @@
+---
+title: "Tourism Marketing II"
+subtitle: "⚔<br/>Introduction"
+author: "Alex Gonzalez"
+date: "2018-09-09 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+
+# Information - Tourism Marketing II
+
+--
+
+**Alejandro González Caules**
+  
+  
+*alex.gonzalez@uib.eu*  
+
+<br/>
+
+--
+
+**Office:**  
+
+D09, second floor. 971 17 30 65 
+
+Arxiduc Lluís Salvador  
+
+<br/>
+
+--
+
+**Office hours:**  
+
+Mon & Wed, 17:00 to 18:00. Appointment by e-mail.  
+
+---
+
+# Schedule
+
+*Group 31:  *
+- Monday, 11.00 - 12.30 (LS17)
+
+<br/>
+
+*Group 34:  *
+- Monday, 15.30 - 17.00 (LS21)
+
+- Wednesday, 15.30 - 17.00 (LS21)
+  
+<br/>
+  
+More information @ UIBdigital.
+
+---
+
+class: inverse, middle, center
+
+# Methodology and evaluation
+
+---
+
+# Class methodolody
+
+--
+
+- Master classes
+
+--
+
+- Case studies and articles
+
+--
+
+- Mid-term exams (Nov & Dec)
+
+--
+
+- Final essay: marketing plan
+
+--
+
+- Final evaluation (Jan & Feb)
+
+---
+
+# Evaluation
+
+--
+
+- Master classes: evaluated with tests and an essay. The latter will assess critical, creative and communicative competences.
+
+--
+
+- Seminars and workshops: class participation, critical eye and proactivity. Observation and communication skills.  
+
+--
+
+- Individual self-study: mid-term tests in the computer lab.  
+
+--
+
+- Group self-study: presentation of group work.  
+
+---
+
+# Papers & projects
+
+--
+
+The group projects will consist of a report and an oral presentation, possibly including audiovisual support.
+
+To be assessed:
+
+--
+
+- Theory applications.
+
+--
+
+- Teamwork skills: initiative, coordination, workload distribution.  
+
+--
+
+- Communication and time control.  
+
+--
+
+- Language: written and spoken.  
+
+--
+
+- Abstraction capacity: essential elements of the report.  
+
+---
+
+# Learning assessment
+
+--
+
+.pull-left[
+
+## Path A: attendance
+
+1. Test: 40%
+
+1. Attendance: 5%
+
+1. Case study: 10%
+
+1. Homework: 10%
+
+1. Final exam: 35%
+
+]
+
+--
+
+.pull-right[
+## Path B: non-attendance
+
+1. Test: 50%
+
+1. Attendance: 0%
+
+1. Case study: 0%
+
+1. Homework: 15%
+
+1. Final exam: 35%
+]
+
+--
+
+<br/>
+
+- Required: final exam $\ge$ 4.0; final exam + class participation $\ge$ 5.0
+
+---
+class: inverse, middle, center
+
+# Resources, bibliography and additional documentation
+
+---
+class: center
+# Main bibliography
+
+--
+
+Philip R. Kotler, John T. Bowen, James Maken (2010): *Marketing for Hospitality and Tourism.* 5th edition. Prentice Hall.
+
+--
+
+Class slides and Pearson material
+
+--
+background-image: url(https://images-na.ssl-images-amazon.com/images/I/51pOF2UNEbL._SX368_BO1,204,203,200_.jpg)
+background-size: 250px
+background-position: 50% 80%
+
+---
+
+# Book chapters
+
+--
+
+1. Introduction to **Operational Marketing**
+
+1. **Designing and Managing** Products and Services
+
+1. **Pricing Products:** pricing considerations, approaches, strategy
+
+1. **Distribution channels**: message, platforms
+
+1. **Promoting products**: communication and promotion policy and advertising
+
+1. **Direct and Online Marketing**: building customer relationships
+
+---
+
+# Evolution of Marketing
+
+--
+
+.pull-left[
+### Marketing 1.0
+
+1. Product
+
+1. Place
+
+1. Price
+
+1. Promotion
+]
+
+--
+
+.pull-left[
+### Marketing 3.0
+
+1. People: employees, culture, customer service
+
+1. Process: feedback, turnaround time, supply chain
+
+1. Physical Evidence: testimonials, reviews, case studies
+]
+
+---
+class: inverse, center, middle
+
+# Any questions?
+
+---
+class: center, bottom, fullscale
+background-image: url(https://media.giphy.com/media/13py6c5BSnBkic/giphy.gif)
+background-position: 50% 50%
+background-size: 75%
+
+# Thanks!
+
